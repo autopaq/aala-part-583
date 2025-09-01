@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "aala-part-583",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "6ce49ada-f38f-48f6-924f-69b2755f2547",
+      "database_name": "aala-part-583-db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
