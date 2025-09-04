@@ -1,0 +1,552 @@
+page,table_index,manufacturer,make,model ,vehicle_type,percent_content
+1,1,Kia Motors,Kia,EV6,MPV,80%
+1,1,"Honda Motor Co., Ltd.",Honda,Ridgeline AWD TrailSport,Truck,75%
+1,1,Tesla Inc.,Tesla,Model 3 Long Range AWD,PC,75%
+1,1,Tesla Inc.,Tesla,Model 3 Long Range RWD,PC,75%
+1,1,Fiat Chrysler,Jeep,Gladiator,Truck,74%
+1,1,Fiat Chrysler,Dodge,Durango,MPV,73%
+1,1,Fiat Chrysler,Jeep,Grand Cherokee,MPV,71%
+1,1,Fiat Chrysler,Jeep,Grand Cherokee L,MPV,71%
+1,1,Volkswagen,Volkswagen,ID.4 82kWh RWD,MPV,71%
+1,1,"Honda Motor Co., Ltd.",Acura,MDX AWD,MPV,70%
+1,1,"Honda Motor Co., Ltd.",Acura,MDX FWD,MPV,70%
+1,1,"Honda Motor Co., Ltd.",Honda,Odyssey FWD,MPV,70%
+1,1,"Honda Motor Co., Ltd.",Honda,Passport AWD,MPV,70%
+1,1,"Honda Motor Co., Ltd.",Honda,Pilot AWD,MPV,70%
+1,1,"Honda Motor Co., Ltd.",Honda,Pilot AWD Touring/Elite/Black,MPV,70%
+1,1,"Honda Motor Co., Ltd.",Honda,Pilot AWD TrailSport,MPV,70%
+1,1,"Honda Motor Co., Ltd.",Honda,Pilot FWD,MPV,70%
+1,1,"Honda Motor Co., Ltd.",Honda,Ridgeline AWD,Truck,70%
+1,1,Tesla Inc.,Tesla,Model 3 Performance,PC,70%
+1,1,Tesla Inc.,Tesla,Model Y Long Range AWD,MPV,70%
+1,1,Tesla Inc.,Tesla,Model Y Long Range RWD,MPV,70%
+1,1,Tesla Inc.,Tesla,Model Y Performance,MPV,70%
+1,1,Volkswagen,Volkswagen,ID.4 Limited 62kWh RWD,MPV,70%
+1,1,Fiat Chrysler,Chrysler,Pacifica,MPV,69%
+1,1,Fiat Chrysler,Jeep,Wrangler,MPV,68%
+1,1,Volkswagen,Volkswagen,ID.4 82kWh AWD,MPV,68%
+1,1,GM LLC,Chevy,Brightdrop,T,65%
+1,1,"Honda Motor Co., Ltd.",Acura,Integra A-Spec,PC,65%
+1,1,"Honda Motor Co., Ltd.",Acura,Integra A-Spec,PC,65%
+1,1,Tesla Inc.,Tesla,Cybertruck,Truck,65%
+1,1,Tesla Inc.,Tesla,Model S,PC,65%
+1,1,Toyota,Toyota,Grand Highlander,MPV,65%
+1,1,Toyota,Toyota,Highlander,MPV,65%
+1,1,Toyota,Lexus,TX 350,MPV,65%
+1,1,Hyundai Motor Company,Hyundai,Ioniq 5,PC,63%
+1,1,Fiat Chrysler,Jeep,Grand Wagoneer,MPV,62%
+1,1,Fiat Chrysler,Jeep,Wagoneer,MPV,62%
+1,1,"Honda Motor Co., Ltd.",Honda,Accord,PC,60%
+1,1,"Honda Motor Co., Ltd.",Honda,Accord,PC,60%
+1,1,"Honda Motor Co., Ltd.",Honda,CR-V FWD,MPV,60%
+1,1,"Honda Motor Co., Ltd.",Honda,CR-V FWD,MPV,60%
+1,1,"Honda Motor Co., Ltd.",Honda,CR-V FWD,MPV,60%
+1,1,"Honda Motor Co., Ltd.",Honda,CR-V FWD,MPV,60%
+1,1,"Honda Motor Co., Ltd.",Honda,CR-V FWD,MPV,60%
+1,1,"Honda Motor Co., Ltd.",Honda,CR-V FWD,MPV,60%
+1,1,"Honda Motor Co., Ltd.",Acura,Integra,PC,60%
+1,1,"Honda Motor Co., Ltd.",Acura,Integra,PC,60%
+1,1,"Honda Motor Co., Ltd.",Acura,MDX AWD Type S,MPV,60%
+1,1,"Honda Motor Co., Ltd.",Acura,RDX AWD,MPV,60%
+1,1,"Honda Motor Co., Ltd.",Acura,RDX AWD A- Spec,MPV,60%
+1,1,"Honda Motor Co., Ltd.",Acura,TLX FWD,PC,60%
+1,1,"Honda Motor Co., Ltd.",Acura,TLX FWD A-Spec,PC,60%
+1,1,"Honda Motor Co., Ltd.",Acura,TLX AWD,PC,60%
+1,1,Hyundai Motor Company,Hyundai,Santa Cruz,MPV,60%
+1,1,Kia Motors,Kia,EV9 Electric,MPV,60%
+1,1,Kia Motors,Kia,Sportage,MPV,60%
+1,1,Kia Motors,Kia,Telluride,MPV,60%
+1,1,Mazda Motor Corporation,Mazda,CX-50,MPV,60%
+1,1,Tesla Inc.,Tesla,Model X,MPV,60%
+1,1,Toyota,Toyota,Corolla Cross,MPV,60%
+1,1,Toyota,Toyota,Sienna HV,MPV,60%
+1,1,Volkswagen,Volkswagen,Atlas 4Motion,MPV,60%
+1,1,Volkswagen,Volkswagen,Atlas FWD,MPV,59%
+2,1,Volkswagen,Volkswagen,Atlas Cross Sport 4Motion,MPV,58%
+2,1,GM LLC,Chevy,Express,MPV,57%
+2,1,GM LLC,GMC,Savanna,MPV,57%
+2,1,Volkswagen,Volkswagen,Atlas Cross Sport FWD,MPV,56%
+2,1,Fiat Chrysler,RAM,Ram 1500 Pickup,Truck,55%
+2,1,GM LLC,Acura,ZDX,MPV,55%
+2,1,"Honda Motor Co., Ltd.",Honda,Accord Hybrid Sport/Touring,PC,55%
+2,1,"Honda Motor Co., Ltd.",Honda,Civic 4D,PC,55%
+2,1,"Honda Motor Co., Ltd.",Honda,Civic 4D,PC,55%
+2,1,"Honda Motor Co., Ltd.",Honda,Civic 4D,PC,55%
+2,1,"Honda Motor Co., Ltd.",Honda,CR-V AWD,MPV,55%
+2,1,"Honda Motor Co., Ltd.",Honda,CR-V AWD,MPV,55%
+2,1,"Honda Motor Co., Ltd.",Honda,CR-V AWD,MPV,55%
+2,1,"Honda Motor Co., Ltd.",Honda,CR-V AWD,MPV,55%
+2,1,"Honda Motor Co., Ltd.",Honda,CR-V AWD,MPV,55%
+2,1,"Honda Motor Co., Ltd.",Honda,CR-V AWD,MPV,55%
+2,1,"Honda Motor Co., Ltd.",Acura,TLX Type-S Perf Tire,PC,55%
+2,1,Hyundai Motor Company,Hyundai,Tucson,MPV,55%
+2,1,Kia Motors,Kia,Sorento,MPV,55%
+2,1,Toyota,Toyota,Camry Hybrid,PC,55%
+2,1,Toyota,Toyota,Corolla,PC,55%
+2,1,Toyota,Toyota,Grand Highlander Hybrid,MPV,55%
+2,1,Toyota,Toyota,Highlander Hybrid,MPV,55%
+2,1,Toyota,Lexus,RX 350,MPV,55%
+2,1,Toyota,Toyota,Tundra,Truck,55%
+2,1,"Honda Motor Co., Ltd.",Honda,Civic 5Dr,PC,50%
+2,1,"Honda Motor Co., Ltd.",Honda,Civic 5Dr,PC,50%
+2,1,"Honda Motor Co., Ltd.",Honda,Civic 5Dr,PC,50%
+2,1,"Honda Motor Co., Ltd.",Honda,Civic 5Dr,PC,50%
+2,1,"Honda Motor Co., Ltd.",Acura,TLX Type-S,PC,50%
+2,1,Mazda Motor Corporation,Mazda,CX-50 Hybrid,MPV,50%
+2,1,"Nissan North America, Inc",Nissan,Altima 4CYL,PC,50%
+2,1,"Nissan North America, Inc",Nissan,Murano,MPV,50%
+2,1,"Nissan North America, Inc",Nissan,Pathfinder,MPV,50%
+2,1,Subaru,Subaru,Ascent,MPV,50%
+2,1,Subaru,Subaru,Legacy,PC,50%
+2,1,Subaru,Subaru,Outback,MPV,50%
+2,1,Toyota,Toyota,Corolla Cross Hybrid,MPV,50%
+2,1,Toyota,Lexus,ES 250/350,PC,50%
+2,1,Toyota,Lexus,NX 250/350,MPV,50%
+2,1,Toyota,Toyota,Sequoia Hybrid,MPV,50%
+2,1,Toyota,Toyota,Tundra Hybrid,Truck,50%
+2,1,GM LLC,GMC,Canyon,Truck,49%
+2,1,GM LLC,Chevy,Colorado,Truck,49%
+2,1,Hyundai Motor Company,Hyundai,Santa Fe,MPV,47%
+2,1,Ford Motor Company,Ford,Ranger,MPV,46%
+2,1,Ford Motor Company,Ford,F150,Truck,45%
+2,1,Ford Motor Company,Ford,F150,Truck,45%
+2,1,"Nissan North America, Inc",Infiniti,QX 60,MPV,45%
+2,1,Subaru,Subaru,Crosstrek,MPV,45%
+2,1,Toyota,Lexus,ES 300h,PC,45%
+2,1,Toyota,Lexus,NX 350h,MPV,45%
+2,1,Toyota,Lexus,TX 500h,MPV,45%
+2,1,Ford Motor Company,Ford,Explorer,MPV,43%
+2,1,GM LLC,Cadillac,Celestiq,PC,43%
+2,1,Fiat Chrysler,Dodge,Charger BEV,PC,42%
+2,1,Ford Motor Company,Ford,Bronco,MPV,42%
+2,1,Ford Motor Company,Ford,Expedition,MPV,42%
+2,1,Ford Motor Company,Ford,Mustang,PC,41%
+2,1,GM LLC,Chevy,Corvette,PC,41%
+2,1,Ford Motor Company,Lincoln,Aviator,MPV,40%
+2,1,Ford Motor Company,Lincoln,Navigator,MPV,40%
+2,1,"Nissan North America, Inc",Nissan,Frontier,Truck,40%
+2,1,Toyota,Lexus,RX 350h/500h,MPV,40%
+3,1,GM LLC,Chevy,Malibu,PC,39%
+3,1,GM LLC,Cadillac,XT4,MPV,39%
+3,1,Hyundai Motor Company,Hyundai,Santa Fe HEV,MPV,39%
+3,1,Ford Motor Company,Lincoln,Corsair,PC,38%
+3,1,Ford Motor Company,Lincoln,Corsair PHEV,PC,38%
+3,1,GM LLC,Cadillac,CT4,PC,37%
+3,1,GM LLC,Cadillac,CT5,PC,37%
+3,1,GM LLC,Cadillac,Escalade,MPV,37%
+3,1,GM LLC,GMC,Sierra,Truck,37%
+3,1,GM LLC,GMC,Sierra HD,Truck,37%
+3,1,GM LLC,Chevy,Silverado,Truck,37%
+3,1,GM LLC,Chevy,Silverado HD,Truck,37%
+3,1,GM LLC,Chevy,Suburban/Tahoe,MPV,37%
+3,1,GM LLC,GMC,Terrain,MPV,37%
+3,1,GM LLC,GMC,Yukon,MPV,37%
+3,1,Ford Motor Company,Ford,Escape,MPV,36%
+3,1,Ford Motor Company,Ford,Escape PHEV,MPV,36%
+3,1,GM LLC,Cadillac,Escalade EV,MPV,36%
+3,1,GM LLC,GMC,Hummer EV,T/MPV,36%
+3,1,GM LLC,Honda,Prologue,MPV,36%
+3,1,GM LLC,Chevy,Silverado/Sierra EV,Truck,36%
+3,1,GM LLC,GMC,Acadia,MPV,35%
+3,1,GM LLC,Buick,Enclave,MPV,35%
+3,1,GM LLC,Chevy,Traverse,MPV,35%
+3,1,Toyota,Toyota,Tacoma,Truck,35%
+3,1,BMW AG,BMW,X4/X4M,MPV,32%
+3,1,BMW AG,BMW,X5,MPV,32%
+3,1,BMW AG,BMW,X6,MPV,32%
+3,1,BMW AG,BMW,X7,MPV,31%
+3,1,Fiat Chrysler,Jeep,Wagoneer S,MPV,31%
+3,1,GM LLC,Chevy,Blazer,MPV,31%
+3,1,GM LLC,Cadillac,XT5,MPV,31%
+3,1,GM LLC,Cadillac,XT6,MPV,31%
+3,1,"Honda Motor Co., Ltd.",Acura,ADX AWD,MPV,30%
+3,1,"Honda Motor Co., Ltd.",Acura,ADX FWD,MPV,30%
+3,1,"Honda Motor Co., Ltd.",Honda,HR-V AWD,MPV,30%
+3,1,"Honda Motor Co., Ltd.",Honda,HR-V FWD,MPV,30%
+3,1,Kia Motors,Kia,EV9 Electric,MPV,30%
+3,1,"Nissan North America, Inc",Nissan,Leaf,PC,30%
+3,1,Toyota,Toyota,Tacoma Hybrid,Truck,30%
+3,1,Volvo,Volvo,S60 B5,PC,30%
+3,1,Ford Motor Company,Ford,F150 EV,Truck,29%
+3,1,Hyundai Motor Company,Hyundai,Ioniq 5,PC,29%
+3,1,Fiat Chrysler,Jeep,Compass,MPV,28%
+3,1,Ford Motor Company,Ford,Maverick,MPV,27%
+3,1,BMW AG,BMW,XM,MPV,26%
+3,1,"Honda Motor Co., Ltd.",Honda,CR-V e-FCEV,MPV,25%
+3,1,Hyundai Motor Company,Genesis,GV70,MPV,25%
+3,1,"Nissan North America, Inc",Nissan,Rogue,MPV,25%
+3,1,"Nissan North America, Inc",Nissan,Rogue,MPV,25%
+3,1,Toyota,Lexus,TX 550h+,MPV,25%
+3,1,Volvo,Volvo,EX90 Twin Motor Ultra,MPV,25%
+3,1,Ford Motor Company,Ford,Bronco Sport,MPV,23%
+3,1,Volkswagen,Volkswagen,Jetta 1.5,PC,21%
+3,1,Kia Motors,Kia,K4,PC,20%
+3,1,Kia Motors,Kia,K4 GT-Line,PC,20%
+3,1,Volvo,Volvo,EX90 Twin Motor Plus,MPV,20%
+3,1,Volvo,Volvo,S60 T8 Plug-in Hybrid,PC,20%
+3,1,Volkswagen,Volkswagen,Taos 4Motion,MPV,18%
+3,1,Hyundai Motor Company,Genesis,GV70 EV,MPV,17%
+3,1,GM LLC,Chevy,Equinox,MPV,15%
+3,1,Hyundai Motor Company,Hyundai,Tucson,MPV,15%
+3,1,"Nissan North America, Inc",Infiniti,QX55,MPV,15%
+3,1,"Nissan North America, Inc",Nissan,Versa,PC,15%
+4,1,"Nissan North America, Inc",Nissan,Versa,PC,15%
+4,1,Volkswagen,Volkswagen,Taos (FWD),MPV,15%
+4,1,Ford Motor Company,Ford,Mustang Mach-E,MPV,13%
+4,1,GM LLC,Chevy,Blazer EV,MPV,12%
+4,1,GM LLC,Chevy,Equinox EV,PC,12%
+4,1,GM LLC,Cadillac,Lyriq,MPV,12%
+4,1,GM LLC,Cadillac,Optiq,MPV,12%
+4,1,Lotus Cars Ltd.,Lotus,Emira V6,PC,10%
+4,1,Mazda Motor Corporation,Mazda,CX-30,PC,10%
+4,1,Mazda Motor Corporation,Mazda,Mazda3,PC,10%
+4,1,Mercedes-Benz USA,Mercedes-Benz,EQE SUV (EQE 350+/EQE 350-4M/EQE 500-4M),PC,10%
+4,1,Mercedes-Benz USA,Mercedes-Benz,EQS SUV (EQS450+/450-4M/580-4M/680 Maybach),MPV,10%
+4,1,Mercedes-Benz USA,Mercedes-Benz,GLE Coupe (GLE450-4M),MPV,10%
+4,1,Mercedes-Benz USA,Mercedes-Benz,GLE Coupe (GLE53-4M),PC,10%
+4,1,Mercedes-Benz USA,Mercedes-Benz,GLE Coupe (GLE63S),PC,10%
+4,1,Mercedes-Benz USA,Mercedes-Benz,GLE SUV (GLE350-4M/GLE350/GLE450-4M),MPV,10%
+4,1,Mercedes-Benz USA,Mercedes-Benz,GLE SUV (GLE450e-4M),MPV,10%
+4,1,Mercedes-Benz USA,Mercedes-Benz,GLE SUV (GLE53-4M),PC,10%
+4,1,Mercedes-Benz USA,Mercedes-Benz,GLE SUV (GLE580-4M),MPV,10%
+4,1,Mercedes-Benz USA,Mercedes-Benz,GLE SUV (GLE63 S),PC,10%
+4,1,Mercedes-Benz USA,Mercedes-Benz,GLS SUV (GLS450-4M),MPV,10%
+4,1,Mercedes-Benz USA,Mercedes-Benz,GLS SUV (GLS580-4M),MPV,10%
+4,1,Mercedes-Benz USA,Mercedes-Benz,GLS SUV (GLS600 Maybach),MPV,10%
+4,1,Mercedes-Benz USA,Mercedes-Benz,GLS SUV (GLS63),MPV,10%
+4,1,"Nissan North America, Inc",Nissan,Kicks,PC,10%
+4,1,"Nissan North America, Inc",Infiniti,QX50,MPV,10%
+4,1,"Nissan North America, Inc",Nissan,Sentra,PC,10%
+4,1,BMW AG,BMW,X3,MPV,9%
+4,1,Jaguar Land Rover Limited,Land Rover,Range Rover Evoque,MPV,9%
+4,1,BMW AG,BMW,2 Series Coupe,PC,8%
+4,1,BMW AG,BMW,3 Series Sedan,PC,8%
+4,1,Jaguar Land Rover Limited,Jaguar,F-TYPE Automatic Convertible AWD (V8),PC,8%
+4,1,Jaguar Land Rover Limited,Jaguar,F-TYPE Automatic Convertible RWD (V8),PC,8%
+4,1,Jaguar Land Rover Limited,Jaguar,F-TYPE Automatic Coupe AWD (V8),PC,8%
+4,1,Jaguar Land Rover Limited,Jaguar,F-TYPE Automatic Coupe RWD (V8),PC,8%
+4,1,Jaguar Land Rover Limited,Land Rover,Range Rover Velar (2.0L I4 Gasoline Turbocharged),MPV,8%
+4,1,Jaguar Land Rover Limited,Land Rover,Range Rover Velar (3.0L V6 Gasoline Turbocharged),MPV,8%
+4,1,Jaguar Land Rover Limited,Land Rover,Discovery Sport,MPV,7%
+4,1,Volkswagen,Volkswagen,Jetta GLI (automatic),PC,7%
+4,1,BMW AG,BMW,M2,PC,6%
+4,1,Volkswagen,Volkswagen,Jetta GLI (manual),PC,6%
+4,1,Ford Motor Company,Lincoln,Nautilus,MPV,5%
+4,1,Jaguar Land Rover Limited,Land Rover,Range Rover 3.0L Turbocharged (Gasoline),MPV,5%
+4,1,Jaguar Land Rover Limited,Land Rover,Range Rover 3.0L Turbocharged (Gasoline),MPV,5%
+4,1,Jaguar Land Rover Limited,Land Rover,Range Rover 3.0L Turbocharged (Gasoline) LWB,MPV,5%
+4,1,Jaguar Land Rover Limited,Land Rover,Range Rover 3.0L Turbocharged (Gasoline) LWB,MPV,5%
+4,1,Jaguar Land Rover Limited,Land Rover,Range Rover 4.4L Turbocharged (Gasoline) LWB,MPV,5%
+4,1,Jaguar Land Rover Limited,Land Rover,Range Rover 4.4L V8 Turbocharged (Gasoline),MPV,5%
+4,1,Jaguar Land Rover Limited,Land Rover,Range Rover Sport 3.0L Turbocharged (Gasoline),MPV,5%
+4,1,Jaguar Land Rover Limited,Land Rover,Range Rover Sport 3.0L Turbocharged PHEV (Gasoline),MPV,5%
+4,1,Jaguar Land Rover Limited,Land Rover,Range Rover Sport 4.4L Turbocharged (Gasoline),MPV,5%
+4,1,Lotus Cars Ltd.,Lotus,Emira,PC,5%
+4,1,Mitsubishi Motors Corporation,Mitsubishi,Outlander Platinum Edition 4WD,MPV,5%
+4,1,Subaru,Subaru,Crosstrek,MPV,5%
+4,1,Subaru,Subaru,Impreza,PC,5%
+4,1,Toyota,Toyota,4Runner Hybrid,MPV,5%
+4,1,Jaguar Land Rover Limited,Jaguar,XF - AWD,PC,4%
+4,1,Jaguar Land Rover Limited,Jaguar,XF - RWD,PC,4%
+4,1,Mitsubishi Motors Corporation,Mitsubishi,Outlander ES 2WD,MPV,4%
+4,1,Mitsubishi Motors Corporation,Mitsubishi,Outlander ES 4WD,MPV,4%
+4,1,Mitsubishi Motors Corporation,Mitsubishi,Outlander SE 2WD,MPV,4%
+4,1,Mitsubishi Motors Corporation,Mitsubishi,Outlander SE 4WD,MPV,4%
+4,1,Mitsubishi Motors Corporation,Mitsubishi,Outlander SEL 2WD,MPV,4%
+4,1,Mitsubishi Motors Corporation,Mitsubishi,Outlander SEL 4WD,MPV,4%
+5,1,GM LLC,Buick,Envista,MPV,3%
+5,1,GM LLC,Chevy,Trailblazer,MPV,3%
+5,1,Hyundai Motor Company,Genesis,G70,PC,3%
+5,1,Hyundai Motor Company,Genesis,G80,PC,3%
+5,1,Hyundai Motor Company,Genesis,GV70,MPV,3%
+5,1,Hyundai Motor Company,Genesis,GV80,MPV,3%
+5,1,Audi,Audi,Q5 (new),MPV,2%
+5,1,Audi,Audi,Q5 40,MPV,2%
+5,1,Audi,Audi,Q5 S line 45,MPV,2%
+5,1,Audi,Audi,Q5 Sportback S line 45,MPV,2%
+5,1,Audi,Audi,SQ5,MPV,2%
+5,1,GM LLC,Buick,Encore GX,MPV,2%
+5,1,GM LLC,Buick,Trax,MPV,2%
+5,1,Hyundai Motor Company,Genesis,G80 EV,PC,2%
+5,1,Hyundai Motor Company,Genesis,G90,PC,2%
+5,1,Hyundai Motor Company,Hyundai,Kona,MPV,2%
+5,1,Hyundai Motor Company,Hyundai,Palisade,MPV,2%
+5,1,Kia Motors,Kia,Carnival,MPV,2%
+5,1,Kia Motors,Kia,Sorento PHEV,MPV,2%
+5,1,Audi,Audi,A3 Sedan 40,PC,1%
+5,1,Audi,Audi,A4 allroad 45,MPV,1%
+5,1,Audi,Audi,A4 Sedan 40,PC,1%
+5,1,Audi,Audi,A4 Sedan S line 45,PC,1%
+5,1,Audi,Audi,A5 Sedan,PC,1%
+5,1,Audi,Audi,A5 Sportback 40,PC,1%
+5,1,Audi,Audi,A5 Sportback S line 45,PC,1%
+5,1,Audi,Audi,A6 allroad 55,PC,1%
+5,1,Audi,Audi,A6 Sedan 45,PC,1%
+5,1,Audi,Audi,A6 Sedan 55,PC,1%
+5,1,Audi,Audi,A6 Sportback e-tron,PC,1%
+5,1,Audi,Audi,A6 Sportback e-tron RWD,PC,1%
+5,1,Audi,Audi,A7 55,PC,1%
+5,1,Audi,Audi,A8 LWB 55,PC,1%
+5,1,Audi,Audi,Q3 40,MPV,1%
+5,1,Audi,Audi,Q3 S line 45,MPV,1%
+5,1,Audi,Audi,Q4 e-tron 45,MPV,1%
+5,1,Audi,Audi,Q4 e-tron 55,MPV,1%
+5,1,Audi,Audi,Q4 Sportback e-tron 55,MPV,1%
+5,1,Audi,Audi,Q5 S line 55 e,MPV,1%
+5,1,Audi,Audi,Q6 e-tron 50,MPV,1%
+5,1,Audi,Audi,Q6 e-tron 60,MPV,1%
+5,1,Audi,Audi,Q7 45,MPV,1%
+5,1,Audi,Audi,Q7 55,MPV,1%
+5,1,Audi,Audi,Q8 55,MPV,1%
+5,1,Audi,Audi,Q8 advanced 55 e-tron,MPV,1%
+5,1,Audi,Audi,Q8 Sportback S line 55 e-tron,MPV,1%
+5,1,Audi,Audi,RS 5 Sportback,PC,1%
+5,1,Audi,Audi,RS e-tron GT,PC,1%
+5,1,Audi,Audi,RS Q8,MPV,1%
+5,1,Audi,Audi,RS6 Performance,PC,1%
+5,1,Audi,Audi,RS7 Performance,PC,1%
+5,1,Audi,Audi,S e-tron GT,PC,1%
+5,1,Audi,Audi,S3 Sedan,PC,1%
+5,1,Audi,Audi,S4 Sedan,PC,1%
+5,1,Audi,Audi,S5 Sedan,PC,1%
+5,1,Audi,Audi,S5 Sportback,PC,1%
+5,1,Audi,Audi,S6,PC,1%
+5,1,Audi,Audi,S6 Sportback e-tron,PC,1%
+5,1,Audi,Audi,S7,PC,1%
+5,1,Audi,Audi,S8,PC,1%
+5,1,Audi,Audi,SQ5 Sportback,MPV,1%
+5,1,Audi,Audi,SQ6 e-tron,MPV,1%
+5,1,Audi,Audi,SQ7,MPV,1%
+5,1,Audi,Audi,SQ8,MPV,1%
+6,1,Audi,Audi,SQ8 e-tron,MPV,1%
+6,1,Audi,Audi,SQ8 Sportback e-tron,MPV,1%
+6,1,BMW AG,BMW,7 Series / i7,PC,1%
+6,1,BMW AG,BMW,8 Series Coupe/Convertible,PC,1%
+6,1,BMW AG,BMW,8 Series Gran Coupe,PC,1%
+6,1,BMW AG,Mini,Cooper Countryman,MPV,1%
+6,1,BMW AG,Mini,Cooper Hard Top 2 Door,PC,1%
+6,1,BMW AG,BMW,i5,PC,1%
+6,1,BMW AG,BMW,iX,MPV,1%
+6,1,BMW AG,BMW,M8,PC,1%
+6,1,BMW AG,BMW,Z4,PC,1%
+6,1,Hyundai Motor Company,Genesis,GV60,MPV,1%
+6,1,Hyundai Motor Company,Hyundai,Ioniq 5 N,PC,1%
+6,1,Hyundai Motor Company,Hyundai,Ioniq 6,PC,1%
+6,1,Hyundai Motor Company,Hyundai,Nexo,MPV,1%
+6,1,Hyundai Motor Company,Hyundai,Tucson,MPV,1%
+6,1,Hyundai Motor Company,Hyundai,Tucson HEV,MPV,1%
+6,1,Hyundai Motor Company,Hyundai,Venue,MPV,1%
+6,1,Jaguar Land Rover Limited,Land Rover,Defender - 110,MPV,1%
+6,1,Jaguar Land Rover Limited,Land Rover,Defender - 130,MPV,1%
+6,1,Jaguar Land Rover Limited,Land Rover,Defender - 90,MPV,1%
+6,1,Jaguar Land Rover Limited,Land Rover,Defender - Octa,MPV,1%
+6,1,Kia Motors,Kia,Niro Electric,MPV,1%
+6,1,Kia Motors,Kia,Niro Hybrid,MPV,1%
+6,1,Kia Motors,Kia,Niro Plug-In Hybrid,MPV,1%
+6,1,Kia Motors,Kia,Seltos,MPV,1%
+6,1,Kia Motors,Kia,Sorento Hybrid,MPV,1%
+6,1,Kia Motors,Kia,Soul,MPV,1%
+6,1,Kia Motors,Kia,Sportage Hybrid,MPV,1%
+6,1,Lamborghini,Lamborghini,Revuelto,PC,1%
+6,1,Lamborghini,Lamborghini,URUS SE,MPV,1%
+6,1,Mitsubishi Motors Corporation,Mitsubishi,Outlander Sport SEL,MPV,1%
+6,1,Polestar,Polestar,Polestar 2,PC,1%
+6,1,Polestar,Polestar,Polestar 3,MPV,1%
+6,1,Rolls-Royce Motor,Rolls-Royce,Cullinan,MPV,1%
+6,1,Rolls-Royce Motor,Rolls-Royce,Ghost,PC,1%
+6,1,Rolls-Royce Motor,Rolls-Royce,Phantom,PC,1%
+6,1,Rolls-Royce Motor,Rolls-Royce,Spectre,PC,1%
+6,1,Volkswagen,Volkswagen,Golf GTI,PC,1%
+6,1,Volkswagen,Volkswagen,Golf R,PC,1%
+6,1,Volkswagen,Volkswagen,ID. Buzz 4MOTION,MPV,1%
+6,1,Volkswagen,Volkswagen,ID. Buzz RWD,MPV,1%
+6,1,Bentley,Bentley,Bentayga Atelier Hybrid,MPV,0%
+6,1,Bentley,Bentley,Bentayga Atelier V8,MPV,0%
+6,1,Bentley,Bentley,Bentayga EWB Atelier V8,MPV,0%
+6,1,Bentley,Bentley,Bentayga EWB V8,MPV,0%
+6,1,Bentley,Bentley,Bentayga Hybrid,MPV,0%
+6,1,Bentley,Bentley,Bentayga V8,MPV,0%
+6,1,Bentley,Bentley,Continental GT Black Edition,PC,0%
+6,1,Bentley,Bentley,Continental GT Mulliner,PC,0%
+6,1,Bentley,Bentley,Continental GT Speed,PC,0%
+6,1,Bentley,Bentley,Continental GTC Black Edition,PC,0%
+6,1,Bentley,Bentley,Continental GTC Mulliner,PC,0%
+6,1,Bentley,Bentley,Continental GTC Speed,PC,0%
+6,1,Bentley,Bentley,Flying Spur Black Edition,PC,0%
+6,1,Bentley,Bentley,Flying Spur Mulliner,PC,0%
+6,1,Bentley,Bentley,Flying Spur Speed,PC,0%
+6,1,BMW AG,BMW,2 Series Gran Coupe,PC,0%
+6,1,BMW AG,BMW,4 Series Gran Coupe/i4,PC,0%
+6,1,BMW AG,BMW,4 Series Coupe/Convertible,PC,0%
+6,1,BMW AG,BMW,5 Series / i5,PC,0%
+6,1,BMW AG,Mini,Cooper 2 dr/4 dr/Conv,PC,0%
+6,1,BMW AG,BMW,M3 Sedan,PC,0%
+6,1,BMW AG,BMW,M4,PC,0%
+7,1,BMW AG,BMW,M4 CS Coupe,PC,0%
+7,1,BMW AG,BMW,M5,PC,0%
+7,1,BMW AG,BMW,M5 Wagon,PC,0%
+7,1,BMW AG,Toyota,Supra,PC,0%
+7,1,BMW AG,BMW,X1,MPV,0%
+7,1,BMW AG,BMW,X2,MPV,0%
+7,1,Fiat Chrysler,Fiat,500E,MPV,0%
+7,1,Fiat Chrysler,Alfa Romeo,Giulia,PC,0%
+7,1,Fiat Chrysler,Dodge,Hornet,MPV,0%
+7,1,Fiat Chrysler,Alfa Romeo,Stelvio,MPV,0%
+7,1,Fiat Chrysler,Alfa Romeo,Tonale,MPV,0%
+7,1,Hyundai Motor Company,Hyundai,Elantra,PC,0%
+7,1,Hyundai Motor Company,Hyundai,Elantra HEV,PC,0%
+7,1,Hyundai Motor Company,Hyundai,Elantra N,PC,0%
+7,1,Hyundai Motor Company,Hyundai,Kona EV,MPV,0%
+7,1,Hyundai Motor Company,Hyundai,Sonata,PC,0%
+7,1,Hyundai Motor Company,Hyundai,Sonata HEV,PC,0%
+7,1,Hyundai Motor Company,Hyundai,Tucson PHEV,MPV,0%
+7,1,Jaguar Land Rover Limited,Land Rover,Discovery 2.0L Turbocharged,MPV,0%
+7,1,Jaguar Land Rover Limited,Land Rover,Discovery 3.0L Turbocharged,MPV,0%
+7,1,Jaguar Land Rover Limited,Jaguar,F-Pace (2.0L I4 Turbocharged),MPV,0%
+7,1,Jaguar Land Rover Limited,Jaguar,F-Pace (3.0L I6 Turbocharged),MPV,0%
+7,1,Jaguar Land Rover Limited,Jaguar,F-Pace SVR (5.0L V8 Supercharged),MPV,0%
+7,1,Jaguar Land Rover Limited,Jaguar,I-PACE EV400 HSE (394hp Elec Motors/90kWh Batt),MPV,0%
+7,1,Jaguar Land Rover Limited,Jaguar,I-PACE EV400 Waymo (394hp Elec Motors/90kWh Batt),MPV,0%
+7,1,Kia Motors,Kia,EV6 GT,MPV,0%
+7,1,Kia Motors,Kia,K5,PC,0%
+7,1,Kia Motors,Kia,Sportage,MPV,0%
+7,1,Kia Motors,Kia,Sportage PHEV,MPV,0%
+7,1,Mazda Motor Corporation,Mazda,CX-5,MPV,0%
+7,1,Mazda Motor Corporation,Mazda,CX-70 MHEV,MPV,0%
+7,1,Mazda Motor Corporation,Mazda,CX-70 PHEV,MPV,0%
+7,1,Mazda Motor Corporation,Mazda,CX-90 MHEV,MPV,0%
+7,1,Mazda Motor Corporation,Mazda,CX-90 PHEV,MPV,0%
+7,1,Mazda Motor Corporation,Mazda,Mazda3,PC,0%
+7,1,Mazda Motor Corporation,Mazda,MX-5 Miata,PC,0%
+7,1,Mercedes-Benz USA,Mercedes-Benz,AMG GT 4-dr Coupe (AMG GT43/AMG GT53),PC,0%
+7,1,Mercedes-Benz USA,Mercedes-Benz,AMG GT 4-dr Coupe (AMG GT63/ AMG GT63eS),PC,0%
+7,1,Mercedes-Benz USA,Mercedes-Benz,AMG GT Coupe (AMG GT55/GT63/ GT 63eS/GT 63 Pro),PC,0%
+7,1,Mercedes-Benz USA,Mercedes-Benz,C-Class Coupe (C43/C63eS),PC,0%
+7,1,Mercedes-Benz USA,Mercedes-Benz,C-Class Coupe (C300/C300-4M),PC,0%
+7,1,Mercedes-Benz USA,Mercedes-Benz,CLA Coupe (CLA250/CLA250-4M),PC,0%
+7,1,Mercedes-Benz USA,Mercedes-Benz,CLA Coupe (CLA35 AMG),PC,0%
+7,1,Mercedes-Benz USA,Mercedes-Benz,CLA Coupe (CLA45 AMG),PC,0%
+7,1,Mercedes-Benz USA,Mercedes-Benz,CLE-Class Cabriolet (CLE300-4M),PC,0%
+7,1,Mercedes-Benz USA,Mercedes-Benz,CLE-Class Cabriolet (CLE450-4M),PC,0%
+7,1,Mercedes-Benz USA,Mercedes-Benz,CLE-Class Cabriolet (CLE53-4M),PC,0%
+7,1,Mercedes-Benz USA,Mercedes-Benz,CLE-Class Coupe (CLE450-4M),PC,0%
+7,1,Mercedes-Benz USA,Mercedes-Benz,CLE-Class Coupe (CLE53-4M),PC,0%
+7,1,Mercedes-Benz USA,Mercedes-Benz,CLE-Class Coupe (E300-4M),PC,0%
+7,1,Mercedes-Benz USA,Mercedes-Benz,E-Class Sedan (E350/E350-4M),PC,0%
+7,1,Mercedes-Benz USA,Mercedes-Benz,E-Class Sedan (E450-4M/ AMG E53e-4M),PC,0%
+7,1,Mercedes-Benz USA,Mercedes-Benz,E-Class Wagon (E450-4M),PC,0%
+7,1,Mercedes-Benz USA,Mercedes-Benz,EQB-Class (EQB 250+/EQB 300-4M/EQB 350-4M),MPV,0%
+7,1,Mercedes-Benz USA,Mercedes-Benz,EQE Sedan (EQE 350+/350-4M/500-4M/AMG EQE 4M),PC,0%
+7,1,Mercedes-Benz USA,Mercedes-Benz,EQS Sedan (EQS 450+/450-4M/580-4M/AMG EQS),PC,0%
+7,1,Mercedes-Benz USA,Mercedes-Benz,G-Class SUV (G550/G63),MPV,0%
+7,1,Mercedes-Benz USA,Mercedes-Benz,G-Class SUV (G580 w EQ),MPV,0%
+7,1,Mercedes-Benz USA,Mercedes-Benz,GLA SUV (AMG GLA35),MPV,0%
+7,1,Mercedes-Benz USA,Mercedes-Benz,GLA SUV (GLA250/GLA250-4M),MPV,0%
+7,1,Mercedes-Benz USA,Mercedes-Benz,GLB SUV (GLB250/GLB250-4M/GLB 35),MPV,0%
+7,1,Mercedes-Benz USA,Mercedes-Benz,GLC Coupe (GLC300-4M),PC,0%
+7,1,Mercedes-Benz USA,Mercedes-Benz,GLC Coupe (GLC43-4M),PC,0%
+7,1,Mercedes-Benz USA,Mercedes-Benz,GLC SUV (GLC300/GLC300-4M/GLC350e-4M),MPV,0%
+8,1,Mercedes-Benz USA,Mercedes-Benz,GLC SUV (GLC43-4M/GLC63eS),MPV,0%
+8,1,Mitsubishi Motors Corporation,Mitsubishi,Eclipse Cross Black Edition AWD,MPV,0%
+8,1,Mitsubishi Motors Corporation,Mitsubishi,Eclipse Cross ES AWD,MPV,0%
+8,1,Mitsubishi Motors Corporation,Mitsubishi,Eclipse Cross LE AWD,MPV,0%
+8,1,Mitsubishi Motors Corporation,Mitsubishi,Eclipse Cross SE AWD,MPV,0%
+8,1,Mitsubishi Motors Corporation,Mitsubishi,Eclipse Cross SE Pano Roof AWD,MPV,0%
+8,1,Mitsubishi Motors Corporation,Mitsubishi,Eclipse Cross SEL AWD,MPV,0%
+8,1,Mitsubishi Motors Corporation,Mitsubishi,Eclipse Cross SEL Touring AWD,MPV,0%
+8,1,Mitsubishi Motors Corporation,Mitsubishi,Outlander PHEV ES Commercial Fleet,MPV,0%
+8,1,Mitsubishi Motors Corporation,Mitsubishi,Outlander PHEV ES,MPV,0%
+8,1,Mitsubishi Motors Corporation,Mitsubishi,Outlander PHEV Platinum Edition,MPV,0%
+8,1,Mitsubishi Motors Corporation,Mitsubishi,Outlander PHEV SE,MPV,0%
+8,1,Mitsubishi Motors Corporation,Mitsubishi,Outlander PHEV SEL,MPV,0%
+8,1,Mitsubishi Motors Corporation,Mitsubishi,Outlander PHEV SEL Black Edition,MPV,0%
+8,1,Mitsubishi Motors Corporation,Mitsubishi,Outlander Sport ES,MPV,0%
+8,1,Mitsubishi Motors Corporation,Mitsubishi,Outlander Sport LE,MPV,0%
+8,1,Mitsubishi Motors Corporation,Mitsubishi,Outlander Sport Ralliart,MPV,0%
+8,1,Mitsubishi Motors Corporation,Mitsubishi,Outlander Sport S,MPV,0%
+8,1,Mitsubishi Motors Corporation,Mitsubishi,Outlander Sport SE,MPV,0%
+8,1,Mitsubishi Motors Corporation,Mitsubishi,Outlander Sport Trail Edition,MPV,0%
+8,1,"Nissan North America, Inc",Nissan,Ariya,PC,0%
+8,1,"Nissan North America, Inc",Nissan,Armada,MPV,0%
+8,1,"Nissan North America, Inc",Infiniti,QX80,MPV,0%
+8,1,"Nissan North America, Inc",Nissan,Z,PC,0%
+8,1,Porsche AG,Porsche,718 Boxster,PC,0%
+8,1,Porsche AG,Porsche,718 Boxster GTS 4.0,PC,0%
+8,1,Porsche AG,Porsche,718 Boxster S,PC,0%
+8,1,Porsche AG,Porsche,718 Boxster Spyder RS,PC,0%
+8,1,Porsche AG,Porsche,718 Boxster Style Edition,PC,0%
+8,1,Porsche AG,Porsche,718 Cayman GT4 RS,PC,0%
+8,1,Porsche AG,Porsche,718 Cayman GTS 4.0,PC,0%
+8,1,Porsche AG,Porsche,718 Cayman S,PC,0%
+8,1,Porsche AG,Porsche,"718 Cayman, Cayman Style Edition",PC,0%
+8,1,Porsche AG,Porsche,"911 Carrera GTS, 4 GTS, GTS Cab, 4 GTS Cab, Targa 4",PC,0%
+8,1,Porsche AG,Porsche,"911 Carrera, Carrera Cabriolet",PC,0%
+8,1,Porsche AG,Porsche,911 GT3 RS,PC,0%
+8,1,Porsche AG,Porsche,"911 Turbo, Turbo S, Turbo Cab, Turbo S Cab",PC,0%
+8,1,Porsche AG,Porsche,"Cayenne E-Hybrid, S E-Hybrid, E-Hybrid Coupe",MPV,0%
+8,1,Porsche AG,Porsche,Cayenne S E-Hybrid Coupe,MPV,0%
+8,1,Porsche AG,Porsche,"Cayenne S, S Coupe, GTS, GTS Coupe",MPV,0%
+8,1,Porsche AG,Porsche,Cayenne Turbo E-Hybrid,MPV,0%
+8,1,Porsche AG,Porsche,Cayenne Turbo E-Hybrid Coupe,MPV,0%
+8,1,Porsche AG,Porsche,Cayenne Turbo GT,MPV,0%
+8,1,Porsche AG,Porsche,"Cayenne, Coupe",MPV,0%
+8,1,Porsche AG,Porsche,Macan 4 Electric,MPV,0%
+8,1,Porsche AG,Porsche,Macan 4S Electric,MPV,0%
+8,1,Porsche AG,Porsche,Macan Electric,MPV,0%
+8,1,Porsche AG,Porsche,Macan Turbo Electric,MPV,0%
+8,1,Porsche AG,Porsche,"Macan, T, S, GTS",MPV,0%
+8,1,Porsche AG,Porsche,"Panamera 4 E-Hybrid, 4S E-Hybrid",PC,0%
+8,1,Porsche AG,Porsche,Panamera Turbo E-Hybrid,PC,0%
+8,1,Porsche AG,Porsche,Panamera Turbo S E-Hybrid,PC,0%
+8,1,Porsche AG,Porsche,"Panamera, Panamera 4",PC,0%
+8,1,Porsche AG,Porsche,"Taycan 4S, Turbo, Turbo S, Turbo Cross Turismo",PC,0%
+8,1,Porsche AG,Porsche,Taycan Turbo GT,PC,0%
+8,1,Porsche AG,Porsche,Taycan Turbo GT Weissach,PC,0%
+8,1,Porsche AG,Porsche,Taycan Turbo S Cross Turismo,PC,0%
+8,1,Porsche AG,Porsche,"Taycan, 4 Cross Turismo, 4S Cross Turismo",PC,0%
+8,1,Subaru,Subaru,BRZ,PC,0%
+8,1,Subaru,Subaru,Forester,MPV,0%
+8,1,Subaru,Toyota,GR86,PC,0%
+8,1,Subaru,Subaru,WRX,PC,0%
+8,1,Toyota,Toyota,4Runner,MPV,0%
+8,1,Toyota,Toyota,bZ4x,MPV,0%
+9,1,Toyota,Toyota,Corolla Hatchback,PC,0%
+9,1,Toyota,Toyota,Corolla Hybrid,PC,0%
+9,1,Toyota,Toyota,Crown,PC,0%
+9,1,Toyota,Toyota,GR Corolla,PC,0%
+9,1,Toyota,Toyota,GR86,PC,0%
+9,1,Toyota,Lexus,GX550,MPV,0%
+9,1,Toyota,Lexus,IS 300/350/500,PC,0%
+9,1,Toyota,Toyota,Land Cruiser,MPV,0%
+9,1,Toyota,Lexus,LC 500,PC,0%
+9,1,Toyota,Lexus,LC 500 Convertible,PC,0%
+9,1,Toyota,Lexus,LC 500h,PC,0%
+9,1,Toyota,Lexus,LS 500,PC,0%
+9,1,Toyota,Lexus,LS 500h,PC,0%
+9,1,Toyota,Lexus,LX 600,MPV,0%
+9,1,Toyota,Lexus,LX 700h,MPV,0%
+9,1,Toyota,Toyota,Mirai,PC,0%
+9,1,Toyota,Lexus,NX 450h+,MPV,0%
+9,1,Toyota,Toyota,Prius,PC,0%
+9,1,Toyota,Toyota,Prius Prime,PC,0%
+9,1,Toyota,Toyota,Rav4 PHEV,PC,0%
+9,1,Toyota,Lexus,RC 300/350,PC,0%
+9,1,Toyota,Lexus,RC F,PC,0%
+9,1,Toyota,Lexus,RX 450h+,MPV,0%
+9,1,Toyota,Lexus,RZ 300e/450e,MPV,0%
+9,1,Toyota,Lexus,UX 300h,MPV,0%
+9,1,Volvo,Volvo,EC40 Single Motor,MPV,0%
+9,1,Volvo,Volvo,EC40 Twin Motor,MPV,0%
+9,1,Volvo,Volvo,EC40 Twin Motor,MPV,0%
+9,1,Volvo,Volvo,EX40 Single Motor,MPV,0%
+9,1,Volvo,Volvo,S90 B6,PC,0%
+9,1,Volvo,Volvo,S90 T8 Plug-in Hybrid,PC,0%
+9,1,Volvo,Volvo,V60 Cross Country B5,MPV,0%
+9,1,Volvo,Volvo,V60 T8 Polestar Engineered Plug-in Hybrid,PC,0%
+9,1,Volvo,Volvo,V90 Cross Country B6,MPV,0%
+9,1,Volvo,Volvo,XC40 B5,MPV,0%
+9,1,Volvo,Volvo,XC60 B5,MPV,0%
+9,1,Volvo,Volvo,XC60 T8 Plug-in Hybrid,MPV,0%
+9,1,Volvo,Volvo,XC90 B5,MPV,0%
+9,1,Volvo,Volvo,XC90 B6,MPV,0%
+9,1,Volvo,Volvo,XC90 T8 Plug-in Hybrid,MPV,0%
