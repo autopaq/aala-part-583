@@ -1,4 +1,4 @@
--- Migration number: 0003	2025-09-04T18:38:42.393Z
+-- Migration number: 0003	2026-01-15T22:49:42.005Z
 CREATE TABLE IF NOT EXISTS coverage (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     year INTEGER NOT NULL,
@@ -10,7 +10,7 @@ CREATE TABLE IF NOT EXISTS coverage (
 );
 
 -- Delete existing data for year 2020
-DELETE FROM coverage WHERE year = 2020;
+DELETE FROM coverage;
 
 -- Insert data for year 2020
 INSERT INTO coverage (year, manufacturer, make, model, vehicle_type, percent_content) VALUES (2020, 'Honda Motor Co., Ltd.', 'Honda', 'Passport AWD', 'MPV', 70);

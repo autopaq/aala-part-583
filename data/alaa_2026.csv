@@ -1,0 +1,462 @@
+Manufacturer,Make,Model,Vehicle Type,Percent Content,Year,Final Assembly Country
+Audi,Audi,A3 S line,PC,1%,2026,G
+Audi,Audi,A6 allroad 55,PC,1%,2026,G
+Audi,Audi,A6 Sedan,PC,1%,2026,G
+Audi,Audi,A8 55,PC,1%,2026,G
+Audi,Audi,Q3 S line 45,MPV,1%,2026,H
+Audi,Audi,Q4 e-tron 45,MPV,1%,2026,G
+Audi,Audi,Q4 e-tron 55,MPV,1%,2026,G
+Audi,Audi,Q4 Sportback e-tron 55,MPV,1%,2026,G
+Audi,Audi,Q7 45,MPV,1%,2026,SL
+Audi,Audi,Q7 55,MPV,1%,2026,SL
+Audi,Audi,Q7 S line 55,MPV,1%,2026,SL
+Audi,Audi,Q8 55,MPV,1%,2026,SL
+Audi,Audi,RS3,PC,1%,2026,G
+Audi,Audi,RS6 Avant Performance,PC,1%,2026,G
+Audi,Audi,RS e-tron GT Performance,PC,1%,2026,G
+Audi,Audi,RS7 Performance,PC,1%,2026,G
+Audi,Audi,RS Q8,MPV,1%,2026,SL
+Audi,Audi,S3,PC,1%,2026,G
+Audi,Audi,S8,PC,1%,2026,G
+Audi,Audi,SQ7,MPV,1%,2026,SL
+Audi,Audi,SQ8,MPV,1%,2026,SL
+Audi,Audi,S e-tron GT,PC,1%,2026,G
+Bentley,Bentley,Bentayga V8,MPV,0%,2026,UK
+Bentley,Bentley,Bentayga EWB V8,MPV,0%,2026,UK
+Bentley,Bentley,Bentayga Hybrid,MPV,0%,2026,UK
+Bentley,Bentley,Bentayga Speed,MPV,0%,2026,UK
+Bentley,Bentley,Continental GT,PC,0%,2026,UK
+Bentley,Bentley,Continental GT Mulliner,PC,0%,2026,UK
+Bentley,Bentley,Continental GT Speed,PC,0%,2026,UK
+Bentley,Bentley,Continental GTC,PC,0%,2026,UK
+Bentley,Bentley,Continental GTC Mulliner,PC,0%,2026,UK
+Bentley,Bentley,Continental GTC Speed,PC,0%,2026,UK
+Bentley,Bentley,Flying Spur,PC,0%,2026,UK
+Bentley,Bentley,Flying Spur Mulliner,PC,0%,2026,UK
+Bentley,Bentley,Flying Spur Speed,PC,0%,2026,UK
+BMW AG,BMW,2 Series Coupe,PC,8%,2026,M
+BMW AG,BMW,2 Series Gran Coupe,PC,0%,2026,G
+BMW AG,BMW,228/M235 xDrive Gran Coupe,PC,0%,2026,G
+BMW AG,BMW,3 Series Sedan,PC,7%,2026,M
+BMW AG,BMW,3 Series Sedan,PC,0%,2026,G
+BMW AG,BMW,4 Series Gran Coupe/i4,PC,0%,2026,G
+BMW AG,BMW,4 Series Coupe,PC,0%,2026,G
+BMW AG,BMW,4 Series Convertible,PC,0%,2026,G
+BMW AG,BMW,5 Series / i5,PC,0%,2026,G
+BMW AG,BMW,7 Series / i7,PC,1%,2026,G
+BMW AG,BMW,8 Series Convertible,PC,0%,2026,G
+BMW AG,BMW,8 Series Coupe,PC,0%,2026,G
+BMW AG,BMW,8 Series Gran Coupe,PC,0%,2026,G
+BMW AG,BMW,i4,PC,0%,2026,G
+BMW AG,BMW,i5 M60,PC,0%,2026,G
+BMW AG,BMW,iX,MPV,1%,2026,G
+BMW AG,BMW,M2/M2 CS,PC,5%,2026,M
+BMW AG,BMW,M3 Sedan,PC,0%,2026,G
+BMW AG,BMW,M4 Coupe,PC,0%,2026,G
+BMW AG,BMW,M4 Convertible,PC,0%,2026,G
+BMW AG,BMW,M5,PC,0%,2026,G
+BMW AG,BMW,M5 Wagon,PC,0%,2026,G
+BMW AG,BMW,X1,MPV,0%,2026,G
+BMW AG,BMW,X2,MPV,0%,2026,G
+BMW AG,BMW,X3,MPV,28%,2026,US
+BMW AG,BMW,X5,MPV,35%,2026,US
+BMW AG,BMW,X6,MPV,35%,2026,US
+BMW AG,BMW,X7,MPV,34%,2026,US
+BMW AG,BMW,XM,MPV,29%,2026,US
+BMW AG,BMW,Z4,PC,0%,2026,AT
+BMW AG,Mini,Cooper Convertible,PC,0%,2026,UK
+BMW AG,Mini,Cooper Countryman,MPV,0%,2026,G
+BMW AG,Mini,Cooper Countryman SE,MPV,0%,2026,G
+BMW AG,Mini,Cooper Hard Top 2 Door/4 Door,PC,0%,2026,UK
+BMW AG,Toyota,Supra,PC,0%,2026,AT
+Fiat Chrysler,Alfa Romeo,Giulia,PC,0%,2026,I
+Fiat Chrysler,Alfa Romeo,Stelvio,MPV,0%,2026,I
+Fiat Chrysler,Alfa Romeo,Tonale,MPV,16%,2026,I
+Fiat Chrysler,Chrysler,Pacifica,MPV,69%,2026,CN
+Fiat Chrysler,Dodge,Charger BEV,PC,42%,2026,CN
+Fiat Chrysler,Dodge,Charger,PC,44%,2026,CN
+Fiat Chrysler,Dodge,Durango,MPV,73%,2026,US
+Fiat Chrysler,Fiat,500E,MPV,0%,2026,I
+Fiat Chrysler,Jeep,Cherokee,MPV,27%,2026,M
+Fiat Chrysler,Jeep,Compass,MPV,36%,2026,M
+Fiat Chrysler,Jeep,Gladiator,Truck,74%,2026,US
+Fiat Chrysler,Jeep,Grand Cherokee,MPV,73%,2026,US
+Fiat Chrysler,Jeep,Grand Cherokee L,MPV,73%,2026,US
+Fiat Chrysler,Jeep,Grand Wagoneer,MPV,59%,2026,US
+Fiat Chrysler,Jeep,Recon,MPV,39%,2026,M
+Fiat Chrysler,Jeep,Wrangler,MPV,68%,2026,US
+Fiat Chrysler,RAM,Ram 1500 Pickup,Truck,55%,2026,US
+Fiat Chrysler,RAM,Ram 1500 Pickup,Truck,35%,2026,M
+Ford Motor Company,Ford,Bronco,MPV,60%,2026,US
+Ford Motor Company,Ford,Bronco Sport,MPV,20%,2026,M
+Ford Motor Company,Ford,Escape,MPV,45%,2026,US
+Ford Motor Company,Ford,Expedition,MPV,55%,2026,US
+Ford Motor Company,Ford,Explorer,MPV,55%,2026,US
+Ford Motor Company,Ford,F150,Truck,45%,2026,US
+Ford Motor Company,Ford,F150,Truck,45%,2026,US
+Ford Motor Company,Ford,Maverick,MPV,25%,2026,M
+Ford Motor Company,Ford,Mustang,PC,55%,2026,US
+Ford Motor Company,Ford,Mustang GTD,PC,70%,2026,CN
+Ford Motor Company,Ford,Mustang Mach-E,MPV,15%,2026,M
+Ford Motor Company,Ford,Ranger,MPV,60%,2026,US
+Ford Motor Company,Lincoln,Aviator,MPV,55%,2026,US
+Ford Motor Company,Lincoln,Corsair,PC,50%,2026,US
+Ford Motor Company,Lincoln,Nautilus,MPV,10%,2026,CH
+Ford Motor Company,Lincoln,Navigator,MPV,55%,2026,US
+GM LLC,Buick,Enclave,MPV,35%,2026,US
+GM LLC,Buick,Encore GX,MPV,2%,2026,K
+GM LLC,Buick,Envista,MPV,3%,2026,K
+GM LLC,Cadillac,CT4,PC,35%,2026,US
+GM LLC,Cadillac,CT5,PC,35%,2026,US
+GM LLC,Cadillac,Escalade,MPV,38%,2026,US
+GM LLC,Cadillac,Escalade EV,MPV,56%,2026,US
+GM LLC,Cadillac,Lyriq,MPV,43%,2026,US
+GM LLC,Cadillac,Optiq,MPV,43%,2026,M
+GM LLC,Cadillac,Vistiq,MPV,43%,2026,US
+GM LLC,Chevy,Blazer EV,MPV,43%,2026,M
+GM LLC,Chevy,Brightdrop,T,66%,2026,CN
+GM LLC,Chevy,Colorado,Truck,49%,2026,US
+GM LLC,Chevy,Corvette,PC,39%,2026,US
+GM LLC,Chevy,Equinox,MPV,11%,2026,M
+GM LLC,Chevy,Equinox EV,PC,43%,2026,M
+GM LLC,Chevy,Express,MPV,53%,2026,US
+GM LLC,Chevy,Silverado/Sierra EV,Truck,56%,2026,US
+GM LLC,Chevy,Silverado,Truck,38%,2026,US
+GM LLC,Chevy,Silverado HD,Truck,38%,2026,US
+GM LLC,Chevy,Suburban/Tahoe,MPV,38%,2026,US
+GM LLC,Chevy,Trailblazer,MPV,3%,2026,K
+GM LLC,Chevy,Traverse,MPV,35%,2026,US
+GM LLC,Chevy,Trax,MPV,2%,2026,K
+GM LLC,GMC,Acadia,MPV,35%,2026,US
+GM LLC,GMC,Canyon,Truck,49%,2026,US
+GM LLC,GMC,Hummer EV,T/MPV,56%,2026,US
+GM LLC,GMC,Savanna,MPV,53%,2026,US
+GM LLC,GMC,Sierra,Truck,38%,2026,US
+GM LLC,GMC,Sierra HD,Truck,38%,2026,US
+GM LLC,GMC,Terrain,MPV,11%,2026,M
+GM LLC,GMC,Yukon,MPV,38%,2026,US
+GM LLC,Honda,Prologue,MPV,37%,2026,M
+Honda Motor Co. Ltd.,Acura,ADX AWD,MPV,30%,2026,M
+Honda Motor Co. Ltd.,Acura,ADX FWD,MPV,30%,2026,M
+Honda Motor Co. Ltd.,Acura,Integra,PC,60%,2026,US
+Honda Motor Co. Ltd.,Acura,Integra,PC,60%,2026,US
+Honda Motor Co. Ltd.,Acura,Integra A-Spec,PC,65%,2026,US
+Honda Motor Co. Ltd.,Acura,Integra A-Spec,PC,65%,2026,US
+Honda Motor Co. Ltd.,Acura,MDX FWD,MPV,70%,2026,US
+Honda Motor Co. Ltd.,Acura,MDX AWD,MPV,70%,2026,US
+Honda Motor Co. Ltd.,Acura,MDX AWD Type S,MPV,60%,2026,US
+Honda Motor Co. Ltd.,Acura,RDX AWD A-Spec,MPV,60%,2026,US
+Honda Motor Co. Ltd.,Acura,RDX AWD,MPV,60%,2026,US
+Honda Motor Co. Ltd.,Honda,Civic 4D,PC,55%,2026,CN
+Honda Motor Co. Ltd.,Honda,Civic 4D,PC,55%,2026,CN
+Honda Motor Co. Ltd.,Honda,Civic 4D,PC,55%,2026,CN
+Honda Motor Co. Ltd.,Honda,Civic 5Dr,PC,50%,2026,US
+Honda Motor Co. Ltd.,Honda,Civic 5Dr,PC,50%,2026,J
+Honda Motor Co. Ltd.,Honda,Civic 5Dr,PC,50%,2026,J
+Honda Motor Co. Ltd.,Honda,Civic 5Dr,PC,50%,2026,US
+Honda Motor Co. Ltd.,Honda,CR-V AWD,MPV,60%,2026,CN
+Honda Motor Co. Ltd.,Honda,CR-V AWD,MPV,60%,2026,US
+Honda Motor Co. Ltd.,Honda,CR-V AWD,MPV,60%,2026,US
+Honda Motor Co. Ltd.,Honda,CR-V AWD,MPV,60%,2026,US
+Honda Motor Co. Ltd.,Honda,CR-V AWD,MPV,60%,2026,US
+Honda Motor Co. Ltd.,Honda,CR-V AWD Trailsport,MPV,60%,2026,US
+Honda Motor Co. Ltd.,Honda,CR-V e-FCEV,MPV,50%,2026,US
+Honda Motor Co. Ltd.,Honda,CR-V FWD,MPV,60%,2026,CN
+Honda Motor Co. Ltd.,Honda,CR-V FWD,MPV,60%,2026,US
+Honda Motor Co. Ltd.,Honda,CR-V FWD,MPV,60%,2026,US
+Honda Motor Co. Ltd.,Honda,HR-V FWD,MPV,30%,2026,M
+Honda Motor Co. Ltd.,Honda,HR-V AWD,MPV,30%,2026,M
+Honda Motor Co. Ltd.,Honda,Odyssey FWD,MPV,70%,2026,US
+Honda Motor Co. Ltd.,Honda,Passport AWD,MPV,65%,2026,US
+Honda Motor Co. Ltd.,Honda,Passport AWD Trailsport,MPV,65%,2026,US
+Honda Motor Co. Ltd.,Honda,Pilot AWD,MPV,70%,2026,US
+Honda Motor Co. Ltd.,Honda,Pilot AWD Touring/Elite/Black,MPV,65%,2026,US
+Honda Motor Co. Ltd.,Honda,Pilot AWD TrailSport,MPV,70%,2026,US
+Honda Motor Co. Ltd.,Honda,Pilot FWD,MPV,70%,2026,US
+Honda Motor Co. Ltd.,Honda,Prelude,PC,0%,2026,J
+Honda Motor Co. Ltd.,Honda,Ridgeline AWD,Truck,75%,2026,US
+Honda Motor Co. Ltd.,Honda,Ridgeline AWD TrailSport,Truck,75%,2026,US
+Hyundai Motor Company,Genesis,G70,PC,5%,2026,K
+Hyundai Motor Company,Genesis,G80,PC,3%,2026,K
+Hyundai Motor Company,Genesis,G80 EV,PC,1%,2026,K
+Hyundai Motor Company,Genesis,G90,PC,2%,2026,K
+Hyundai Motor Company,Genesis,GV60,MPV,1%,2026,K
+Hyundai Motor Company,Genesis,GV70,MPV,2%,2026,K
+Hyundai Motor Company,Genesis,GV70,MPV,26%,2026,US
+Hyundai Motor Company,Genesis,GV70 EV,MPV,44%,2026,US
+Hyundai Motor Company,Genesis,GV80,MPV,3%,2026,K
+Hyundai Motor Company,Hyundai,Elantra,PC,0%,2026,K
+Hyundai Motor Company,Hyundai,Elantra HEV,PC,1%,2026,K
+Hyundai Motor Company,Hyundai,Elantra N,PC,0%,2026,K
+Hyundai Motor Company,Hyundai,Ioniq 5,PC,58%,2026,US
+Hyundai Motor Company,Hyundai,Ioniq 5,PC,0%,2026,SI
+Hyundai Motor Company,Hyundai,Ioniq 5,PC,20%,2026,SI
+Hyundai Motor Company,Hyundai,Ioniq 5 N,PC,1%,2026,K
+Hyundai Motor Company,Hyundai,Ioniq 9,MPV,60%,2026,US
+Hyundai Motor Company,Hyundai,Kona,MPV,2%,2026,K
+Hyundai Motor Company,Hyundai,Palisade,MPV,1%,2026,K
+Hyundai Motor Company,Hyundai,Palisade Hybrid,MPV,1%,2026,K
+Hyundai Motor Company,Hyundai,Santa Cruz,MPV,54%,2026,US
+Hyundai Motor Company,Hyundai,Santa Fe,MPV,45%,2026,US
+Hyundai Motor Company,Hyundai,Santa Fe HEV,MPV,39%,2026,US
+Hyundai Motor Company,Hyundai,Sonata,PC,0%,2026,K
+Hyundai Motor Company,Hyundai,Sonata HEV,PC,1%,2026,K
+Hyundai Motor Company,Hyundai,Tucson,MPV,1%,2026,K
+Hyundai Motor Company,Hyundai,Tucson,MPV,51%,2026,US
+Hyundai Motor Company,Hyundai,Tucson Hybrid,MPV,1%,2026,K
+Hyundai Motor Company,Hyundai,Tucson PHEV,MPV,0%,2026,K
+Hyundai Motor Company,Hyundai,Venue,MPV,1%,2026,K
+Jaguar Land Rover Limited,Jaguar,F-Pace (2.0L I4 Turbocharged),MPV,0%,2026,UK
+Jaguar Land Rover Limited,Jaguar,F-Pace (3.0L I6 Turbocharged),MPV,0%,2026,UK
+Jaguar Land Rover Limited,Jaguar,F-Pace SVR (5.0L V8 Supercharged),MPV,0%,2026,UK
+Jaguar Land Rover Limited,Land Rover,Discovery 2.0L Turbocharged,MPV,0%,2026,SL
+Jaguar Land Rover Limited,Land Rover,Discovery 3.0L Turbocharged,MPV,0%,2026,SL
+Jaguar Land Rover Limited,Land Rover,Discovery Sport,MPV,7%,2026,UK
+Jaguar Land Rover Limited,Land Rover,Range Rover 3.0L Turbo (Gasoline) Long Wheelbase,MPV,5%,2026,UK
+Jaguar Land Rover Limited,Land Rover,Range Rover 3.0L Turbo (Gasoline) PHEV Long,MPV,5%,2026,UK
+Jaguar Land Rover Limited,Land Rover,Range Rover 3.0L Turbo (Gasoline) PHEV Std Wheelbase,MPV,5%,2026,UK
+Jaguar Land Rover Limited,Land Rover,Range Rover 3.0L Turbo (Gasoline) Std Wheelbase,MPV,5%,2026,UK
+Jaguar Land Rover Limited,Land Rover,Range Rover 4.4L Turbocharged (Gasoline) Long,MPV,5%,2026,UK
+Jaguar Land Rover Limited,Land Rover,Range Rover 4.4L V8 Turbocharged (Gasoline) Standard,MPV,5%,2026,UK
+Jaguar Land Rover Limited,Land Rover,Range Rover Evoque,MPV,9%,2026,UK
+Jaguar Land Rover Limited,Land Rover,Range Rover Sport 3.0L Turbocharged PHEV (Gasoline),MPV,5%,2026,UK
+Jaguar Land Rover Limited,Land Rover,Range Rover Sport 3.0L Turbocharged (Gasoline),MPV,5%,2026,UK
+Jaguar Land Rover Limited,Land Rover,Range Rover Sport 4.4L Turbocharged (Gasoline),MPV,5%,2026,UK
+Jaguar Land Rover Limited,Land Rover,Range Rover Velar (2.0L I4 Gasoline Turbocharged),MPV,8%,2026,UK
+Jaguar Land Rover Limited,Land Rover,Range Rover Velar (3.0L V6 Gasoline Turbocharged),MPV,8%,2026,UK
+Kia Motors,Kia,Carnival,MPV,2%,2026,K
+Kia Motors,Kia,Carnival Hybrid,MPV,2%,2026,K
+Kia Motors,Kia,EV6,MPV,75%,2026,US
+Kia Motors,Kia,EV9,MPV,60%,2026,US
+Kia Motors,Kia,K4,PC,20%,2026,M
+Kia Motors,Kia,K5,PC,0%,2026,K
+Kia Motors,Kia,Niro Electric,MPV,0%,2026,K
+Kia Motors,Kia,Niro Hybrid,MPV,0%,2026,K
+Kia Motors,Kia,Seltos,MPV,3%,2026,K
+Kia Motors,Kia,Sorento,MPV,55%,2026,US
+Kia Motors,Kia,Sorento Hybrid,MPV,1%,2026,K
+Kia Motors,Kia,Sorento PHEV,MPV,1%,2026,K
+Kia Motors,Kia,Sportage,MPV,55%,2026,US
+Kia Motors,Kia,Sportage,MPV,0%,2026,K
+Kia Motors,Kia,Sportage Hybrid,MPV,1%,2026,K
+Lamborghini,Lamborghini,Revuelto,PC,1%,2026,I
+Lamborghini,Lamborghini,Temerario,PC,1%,2026,I
+Lamborghini,Lamborghini,URUS SE,MPV,1%,2026,I
+Lotus Cars Ltd.,Lotus,Emira V6,PC,10%,2026,UK
+Lotus Cars Ltd.,Lotus,Emira,PC,5%,2026,UK
+Lucid USA Inc.,Lucid,Gravity,MPV,53%,2026,US
+Mazda Motor Corporation,Mazda,CX-30,PC,10%,2026,M
+Mazda Motor Corporation,Mazda,CX-5,MPV,0%,2026,J
+Mazda Motor Corporation,Mazda,CX-50,MPV,65%,2026,US
+Mazda Motor Corporation,Mazda,CX-50 Hybrid,MPV,65%,2026,US
+Mazda Motor Corporation,Mazda,CX-70 PHEV,MPV,0%,2026,J
+Mazda Motor Corporation,Mazda,CX-70 MHEV,MPV,0%,2026,J
+Mazda Motor Corporation,Mazda,CX-90 PHEV,MPV,0%,2026,J
+Mazda Motor Corporation,Mazda,CX-90 MHEV,MPV,0%,2026,J
+Mazda Motor Corporation,Mazda,Mazda3,PC,0%,2026,J
+Mazda Motor Corporation,Mazda,Mazda3,PC,10%,2026,M
+Mazda Motor Corporation,Mazda,MX-5 Miata,PC,0%,2026,J
+Mercedes-Benz USA,Mercedes-Benz,AMG GT Coupe (GT43),PC,0%,2026,G
+Mercedes-Benz USA,Mercedes-Benz,AMG GT Coupe (GT55/GT63),PC,0%,2026,G
+Mercedes-Benz USA,Mercedes-Benz,AMG GT Coupe (GT63 PRO/GT63e S),PC,0%,2026,G
+Mercedes-Benz USA,Mercedes-Benz,AMG GT 4-dr Coupe (GT43/GT53/GT63),PC,0%,2026,FN
+Mercedes-Benz USA,Mercedes-Benz,AMG GT 4-dr Coupe (GT63eS),PC,0%,2026,FN
+Mercedes-Benz USA,Mercedes-Benz,C-Class Sedan (C300),PC,0%,2026,SA
+Mercedes-Benz USA,Mercedes-Benz,C-Class Sedan (C300-4M),PC,0%,2026,SA
+Mercedes-Benz USA,Mercedes-Benz,C-Class Sedan (C43-4M),PC,0%,2026,SA
+Mercedes-Benz USA,Mercedes-Benz,C-Class Sedan (C63e S),PC,0%,2026,SA
+Mercedes-Benz USA,Mercedes-Benz,CLA Coupe (CLA250),PC,0%,2026,H
+Mercedes-Benz USA,Mercedes-Benz,CLA Coupe (CLA250-4M),PC,0%,2026,H
+Mercedes-Benz USA,Mercedes-Benz,CLA Coupe (CLA250+ w/ EQ Tech),PC,0%,2026,G
+Mercedes-Benz USA,Mercedes-Benz,CLA Coupe (CLA35-4M),PC,0%,2026,H
+Mercedes-Benz USA,Mercedes-Benz,CLA Coupe (CLA35-4M w/ EQ Tech),PC,0%,2026,G
+Mercedes-Benz USA,Mercedes-Benz,CLA Coupe (CLA45C4 S),PC,0%,2026,G
+Mercedes-Benz USA,Mercedes-Benz,CLE-Class Coupe (E300-4M),PC,0%,2026,G
+Mercedes-Benz USA,Mercedes-Benz,CLE-Class Coupe (CLE450-4M),PC,0%,2026,G
+Mercedes-Benz USA,Mercedes-Benz,CLE-Class Coupe (CLE53-4M),PC,0%,2026,G
+Mercedes-Benz USA,Mercedes-Benz,CLE-Class Cabriolet (CLE300-4M),PC,0%,2026,G
+Mercedes-Benz USA,Mercedes-Benz,CLE-Class Cabriolet (CLE450-4M),PC,0%,2026,G
+Mercedes-Benz USA,Mercedes-Benz,CLE-Class Cabriolet (CLE53-4M),PC,0%,2026,G
+Mercedes-Benz USA,Mercedes-Benz,E-Class Sedan (E450-4M),PC,0%,2026,G
+Mercedes-Benz USA,Mercedes-Benz,E-Class Sedan (E350),PC,0%,2026,G
+Mercedes-Benz USA,Mercedes-Benz,E-Class Sedan (E350-4M),PC,0%,2026,G
+Mercedes-Benz USA,Mercedes-Benz,E-Class AMG Sedan (E53e-4M),PC,0%,2026,G
+Mercedes-Benz USA,Mercedes-Benz,E-Class Wagon (E450-4M),PC,0%,2026,G
+Mercedes-Benz USA,Mercedes-Benz,E-Class AMG Wagon (E53e-4M),PC,0%,2026,G
+Mercedes-Benz USA,Mercedes-Benz,EQE Sedan (AMG EQE 4M),PC,0%,2026,G
+Mercedes-Benz USA,Mercedes-Benz,EQE Sedan (EQE 320+),PC,0%,2026,G
+Mercedes-Benz USA,Mercedes-Benz,EQE Sedan (EQE 320-4M),PC,0%,2026,G
+Mercedes-Benz USA,Mercedes-Benz,EQS Sedan (EQS 450),PC,0%,2026,G
+Mercedes-Benz USA,Mercedes-Benz,EQS Sedan (EQS 450-4M),PC,0%,2026,G
+Mercedes-Benz USA,Mercedes-Benz,EQS Sedan (EQS 580-4M),PC,0%,2026,G
+Mercedes-Benz USA,Mercedes-Benz,EQE SUV (EQE 320+/EQE 320-4M/AMG EQE),PC,20%,2026,US
+Mercedes-Benz USA,Mercedes-Benz,EQS SUV (EQS400-4M/EQS550-4M),MPV,20%,2026,US
+Mercedes-Benz USA,Mercedes-Benz,EQS SUV (EQS680 Maybach),MPV,25%,2026,US
+Mercedes-Benz USA,Mercedes-Benz,G-Class SUV (G550),MPV,0%,2026,AT
+Mercedes-Benz USA,Mercedes-Benz,G-Class SUV (G63),MPV,0%,2026,AT
+Mercedes-Benz USA,Mercedes-Benz,G-Class SUV (G580 w EQ),MPV,0%,2026,AT
+Mercedes-Benz USA,Mercedes-Benz,GLA SUV (GLA250),MPV,0%,2026,H
+Mercedes-Benz USA,Mercedes-Benz,GLA SUV (GLA250-4M),MPV,0%,2026,H
+Mercedes-Benz USA,Mercedes-Benz,GLA SUV (GLA35-4M),MPV,0%,2026,H
+Mercedes-Benz USA,Mercedes-Benz,GLB SUV (GLB250),MPV,0%,2026,M
+Mercedes-Benz USA,Mercedes-Benz,GLB SUV (GLB250-4M),MPV,0%,2026,M
+Mercedes-Benz USA,Mercedes-Benz,GLB SUV (GLB 35-4M),MPV,0%,2026,M
+Mercedes-Benz USA,Mercedes-Benz,GLC SUV (GLC300),MPV,0%,2026,G
+Mercedes-Benz USA,Mercedes-Benz,GLC SUV (GLC300-4M),MPV,0%,2026,G
+Mercedes-Benz USA,Mercedes-Benz,GLC SUV (GLC350e4M),MPV,0%,2026,G
+Mercedes-Benz USA,Mercedes-Benz,GLC SUV (GLC43-4M/GLC63eS),MPV,0%,2026,G
+Mercedes-Benz USA,Mercedes-Benz,GLC Coupe (GLC300-4M),MPV,0%,2026,G
+Mercedes-Benz USA,Mercedes-Benz,GLC Coupe (GLC43/GLC63e S),MPV,0%,2026,G
+Mercedes-Benz USA,Mercedes-Benz,GLE SUV (GLE350-4M/GLE350),MPV,40%,2026,US
+Mercedes-Benz USA,Mercedes-Benz,GLE SUV (GLE450-4M/GLE450-4M Coupe/GLE53),MPV,35%,2026,US
+Mercedes-Benz USA,Mercedes-Benz,GLE SUV (GLE450e4M),MPV,30%,2026,US
+Mercedes-Benz USA,Mercedes-Benz,GLE/GLS SUV (GLE580-4M/GLS580-4M),MPV,30%,2026,US
+Mercedes-Benz USA,Mercedes-Benz,GLE/GLS SUV (AMG GLE63 S/AMG GLE63 S Coupe/AMG GLS63),MPV,30%,2026,US
+Mercedes-Benz USA,Mercedes-Benz,GLS SUV (GLS450-4M),MPV,35%,2026,US
+Mercedes-Benz USA,Mercedes-Benz,GLS SUV (GLS600 Maybach),MPV,30%,2026,US
+Mercedes-Benz USA,Mercedes-Benz,S-Class Sedan (S500-4M),PC,0%,2026,G
+Mercedes-Benz USA,Mercedes-Benz,S-Class Sedan (S580-4M),PC,0%,2026,G
+Mercedes-Benz USA,Mercedes-Benz,S-Class Sedan (S580e4M),PC,0%,2026,G
+Mercedes-Benz USA,Mercedes-Benz,S-Class Sedan (S63eS),PC,0%,2026,G
+Mercedes-Benz USA,Mercedes-Benz,S-Class Maybach Sedan (S580-4M),PC,0%,2026,G
+Mercedes-Benz USA,Mercedes-Benz,S-Class Maybach Sedan (S680-4M),PC,0%,2026,G
+Mercedes-Benz USA,Mercedes-Benz,SL-Class Sedan (SL43/SL63),PC,0%,2026,G
+Mercedes-Benz USA,Mercedes-Benz,SL-Class Sedan (SL55),PC,0%,2026,G
+Mercedes-Benz USA,Mercedes-Benz,SL-Class Sedan (SL63e S),PC,0%,2026,G
+Mercedes-Benz USA,Mercedes-Benz,SL-Class Sedan (SL680 Maybach),PC,0%,2026,G
+Mitsubishi Motors Corporation,Mitsubishi,Eclipse Cross Black Edition AWD,MPV,0%,2026,J
+Mitsubishi Motors Corporation,Mitsubishi,Eclipse Cross ES AWD,MPV,0%,2026,J
+Mitsubishi Motors Corporation,Mitsubishi,Eclipse Cross LE AWD,MPV,0%,2026,J
+Mitsubishi Motors Corporation,Mitsubishi,Eclipse Cross Ralliart AWD,MPV,0%,2026,J
+Mitsubishi Motors Corporation,Mitsubishi,Eclipse Cross SE AWD,MPV,0%,2026,J
+Mitsubishi Motors Corporation,Mitsubishi,Eclipse Cross SEL AWD,MPV,0%,2026,J
+Mitsubishi Motors Corporation,Mitsubishi,Outlander Sport ES,MPV,0%,2026,J
+Mitsubishi Motors Corporation,Mitsubishi,Outlander Sport LE,MPV,0%,2026,J
+Mitsubishi Motors Corporation,Mitsubishi,Outlander Sport Ralliart,MPV,0%,2026,J
+Mitsubishi Motors Corporation,Mitsubishi,Outlander Sport S,MPV,0%,2026,J
+Mitsubishi Motors Corporation,Mitsubishi,Outlander Sport SE,MPV,0%,2026,J
+Mitsubishi Motors Corporation,Mitsubishi,Outlander Sport SEL,MPV,1%,2026,J
+Mitsubishi Motors Corporation,Mitsubishi,Outlander Sport Trail Edition,MPV,0%,2026,J
+Nissan North America Inc.,Infiniti,QX60,MPV,45%,2026,US
+Nissan North America Inc.,Infiniti,QX80,MPV,0%,2026,J
+Nissan North America Inc.,Nissan,Ariya,PC,0%,2026,J
+Nissan North America Inc.,Nissan,Armada,MPV,0%,2026,J
+Nissan North America Inc.,Nissan,Armada NISMO,MPV,0%,2026,J
+Nissan North America Inc.,Nissan,Frontier,Truck,40%,2026,US
+Nissan North America Inc.,Nissan,Kicks,PC,20%,2026,M
+Nissan North America Inc.,Nissan,Leaf,PC,0%,2026,J
+Nissan North America Inc.,Nissan,Murano,MPV,45%,2026,US
+Nissan North America Inc.,Nissan,Rogue,MPV,25%,2026,US
+Nissan North America Inc.,Nissan,Rogue,MPV,25%,2026,J
+Nissan North America Inc.,Nissan,Z,PC,0%,2026,J
+Porsche AG,Porsche,911 Spirit 70/Carrera/T/Cabriolet/T Cabriolet,PC,0%,2026,G
+Porsche AG,Porsche,911 Carrera GTS/GTS Cabriolet/4 GTS/4 GTS Cabriolet,PC,0%,2026,G
+Porsche AG,Porsche,911 Carrera/S/S Cabriolet,PC,0%,2026,G
+Porsche AG,Porsche,911 GT3/GT3 Touring/Targa 4 GTS,PC,0%,2026,G
+Porsche AG,Porsche,Cayenne/Cayenne Coupe,MPV,0%,2026,SL
+Porsche AG,Porsche,Cayenne E-Hybrid/S E-Hybrid/E-Hybrid Coupe,MPV,0%,2026,SL
+Porsche AG,Porsche,Cayenne S E-Hybrid Coupe,MPV,0%,2026,SL
+Porsche AG,Porsche,Cayenne S/S Coupe/GTS/GTS Coupe,MPV,0%,2026,SL
+Porsche AG,Porsche,Cayenne Turbo E-Hybrid/Turbo E-Hybrid Coupe,MPV,0%,2026,SL
+Porsche AG,Porsche,Cayenne Turbo GT,MPV,0%,2026,SL
+Porsche AG,Porsche,Macan/T,MPV,0%,2026,G
+Porsche AG,Porsche,Macan S/GTS,MPV,0%,2026,G
+Porsche AG,Porsche,Panamera,PC,0%,2026,G
+Porsche AG,Porsche,Panamera 4,PC,0%,2026,G
+Porsche AG,Porsche,Panamera 4 E-Hybrid/4S E-Hybrid,PC,0%,2026,G
+Porsche AG,Porsche,Panamera GTS,PC,0%,2026,G
+Porsche AG,Porsche,Panamera Turbo E-Hybrid,PC,0%,2026,G
+Porsche AG,Porsche,Panamera Turbo S E-Hybrid,PC,0%,2026,G
+Porsche AG,Porsche,Taycan/4/4S/GTS/4 Cross Turismo,PC,0%,2026,G
+Porsche AG,Porsche,Taycan 4S Cross Turismo/Sport Turismo/GTS Sport,PC,0%,2026,G
+Porsche AG,Porsche,Taycan 4S Sport Turismo,PC,0%,2026,G
+Porsche AG,Porsche,Taycan Turbo S/Turbo S Sport Turismo,PC,0%,2026,G
+Porsche AG,Porsche,Taycan Turbo/Turbo Cross Turismo/Turbo S Cross Turismo,PC,0%,2026,G
+Porsche AG,Porsche,Taycan Turbo GT,PC,0%,2026,G
+Porsche AG,Porsche,Taycan Turbo GT Weissach,PC,0%,2026,G
+Rolls-Royce Motor,Rolls-Royce,Cullinan,MPV,1%,2026,UK
+Rolls-Royce Motor,Rolls-Royce,Ghost,PC,1%,2026,UK
+Rolls-Royce Motor,Rolls-Royce,Phantom,PC,1%,2026,UK
+Rolls-Royce Motor,Rolls-Royce,Spectre,PC,1%,2026,UK
+Subaru,Subaru,Ascent,MPV,45%,2026,US
+Subaru,Subaru,BRZ,PC,0%,2026,J
+Subaru,Subaru,Crosstrek,MPV,45%,2026,US
+Subaru,Subaru,Crosstrek Hybrid,MPV,0%,2026,J
+Subaru,Subaru,Forester,MPV,50%,2026,US
+Subaru,Subaru,Impreza,PC,5%,2026,J
+Subaru,Subaru,Outback,MPV,0%,2026,J
+Subaru,Toyota,GR86,PC,0%,2026,J
+Tesla Inc.,Tesla,Cybertruck,Truck,65%,2026,US
+Tesla Inc.,Tesla,Model 3 RWD/AWD,PC,75%,2026,US
+Tesla Inc.,Tesla,Model 3 Perf,PC,70%,2026,US
+Tesla Inc.,Tesla,Model S,PC,65%,2026,US
+Tesla Inc.,Tesla,Model X,MPV,60%,2026,US
+Tesla Inc.,Tesla,Model Y AWD/Perf,MPV,70%,2026,US
+Tesla Inc.,Tesla,Model Y RWD/LR RWD,MPV,70%,2026,US
+Toyota,Lexus,ES 350e/500e,PC,0%,2026,J
+Toyota,Lexus,ES 350h,PC,0%,2026,J
+Toyota,Lexus,GX550,MPV,0%,2026,J
+Toyota,Lexus,IS 350,PC,0%,2026,J
+Toyota,Lexus,LC 500,PC,0%,2026,J
+Toyota,Lexus,LC 500 Convertible,PC,0%,2026,J
+Toyota,Lexus,LS 500,PC,0%,2026,J
+Toyota,Lexus,LX 600,MPV,0%,2026,J
+Toyota,Lexus,LX 700h,MPV,0%,2026,J
+Toyota,Lexus,NX 250/350,MPV,45%,2026,J
+Toyota,Lexus,NX 350,MPV,45%,2026,J
+Toyota,Lexus,NX 350h,MPV,45%,2026,J
+Toyota,Lexus,NX 450h+,MPV,0%,2026,J
+Toyota,Lexus,RX 350,MPV,55%,2026,CN
+Toyota,Lexus,RX 350h/500h,MPV,55%,2026,CN
+Toyota,Lexus,RX 450h+,MPV,0%,2026,J
+Toyota,Lexus,RZ 350e/450e/550e,MPV,0%,2026,J
+Toyota,Lexus,TX 350,MPV,65%,2026,US
+Toyota,Lexus,TX 500h,MPV,50%,2026,US
+Toyota,Lexus,TX 550h+,MPV,30%,2026,US
+Toyota,Lexus,UX 300h,MPV,0%,2026,J
+Toyota,Subaru,Uncharted,MPV,0%,2026,J
+Toyota,Toyota,4Runner,MPV,0%,2026,J
+Toyota,Toyota,4Runner Hybrid,MPV,0%,2026,J
+Toyota,Toyota,bZ4x,MPV,0%,2026,J
+Toyota,Toyota,Camry Hybrid,PC,60%,2026,US
+Toyota,Toyota,C-HR,MPV,0%,2026,J
+Toyota,Toyota,Corolla,PC,60%,2026,US
+Toyota,Toyota,Corolla Cross,MPV,60%,2026,US
+Toyota,Toyota,Corolla Cross Hybrid,MPV,55%,2026,US
+Toyota,Toyota,Corolla Hatchback,PC,0%,2026,J
+Toyota,Toyota,Corolla Hybrid,PC,0%,2026,J
+Toyota,Toyota,Crown,PC,0%,2026,J
+Toyota,Toyota,Crown Signia,PC,0%,2026,J
+Toyota,Toyota,Grand Highlander,MPV,65%,2026,US
+Toyota,Toyota,Grand Highlander Hybrid,MPV,60%,2026,US
+Toyota,Toyota,GR86,PC,0%,2026,J
+Toyota,Toyota,GR Corolla,PC,0%,2026,J
+Toyota,Toyota,Highlander,MPV,65%,2026,US
+Toyota,Toyota,Highlander Hybrid,MPV,60%,2026,US
+Toyota,Toyota,Land Cruiser,MPV,0%,2026,J
+Toyota,Toyota,Mirai,PC,0%,2026,J
+Toyota,Toyota,Prius,PC,0%,2026,J
+Toyota,Toyota,Prius PHEV,PC,0%,2026,J
+Toyota,Toyota,Rav4 Hybrid,MPV,55%,2026,US
+Toyota,Toyota,Sequoia Hybrid,MPV,50%,2026,US
+Toyota,Toyota,Sienna HV,MPV,60%,2026,US
+Toyota,Toyota,Tacoma,Truck,40%,2026,M
+Toyota,Toyota,Tacoma Hybrid,Truck,30%,2026,M
+Toyota,Toyota,Tundra,Truck,55%,2026,US
+Toyota,Toyota,Tundra Hybrid,Truck,50%,2026,US
+Volkswagen,Volkswagen,Atlas 4Motion,MPV,61%,2026,US
+Volkswagen,Volkswagen,Atlas FWD,MPV,59%,2026,US
+Volkswagen,Volkswagen,Atlas Cross Sport 4Motion,MPV,59%,2026,US
+Volkswagen,Volkswagen,Atlas Cross Sport FWD,MPV,57%,2026,US
+Volkswagen,Volkswagen,Golf GTI,PC,1%,2026,G
+Volkswagen,Volkswagen,Golf R,PC,1%,2026,G
+Volkswagen,Volkswagen,ID.4 AWD Pro,MPV,76%,2026,US
+Volkswagen,Volkswagen,ID.4 Pro RWD,MPV,75%,2026,US
+Volkswagen,Volkswagen,Jetta,PC,18%,2026,M
+Volkswagen,Volkswagen,Jetta GLI (manual),PC,6%,2026,M
+Volkswagen,Volkswagen,Jetta GLI (automatic),PC,5%,2026,M
+Volkswagen,Volkswagen,Taos (AWD),MPV,14%,2026,M
+Volkswagen,Volkswagen,Taos (FWD),MPV,15%,2026,M
+Volkswagen,Volkswagen,Tiguan 4Motion,MPV,14%,2026,M
+Volkswagen,Volkswagen,Tiguan Turbo 4Motion,MPV,15%,2026,M
+Volkswagen,Volkswagen,Tiguan FWD,MPV,14%,2026,M
